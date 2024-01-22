@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... cybersecurity
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @darylthetan on instagram
+- 📫 How to reach me ... https://thedaryltan.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...
 
