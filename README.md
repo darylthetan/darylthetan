@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... me@thedaryltan.com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I play the electriic guitar
+- ⚡ Fun fact: ... I play the electric guitar
 
 <!---
 darylthetan/darylthetan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
