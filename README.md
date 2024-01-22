@@ -2,9 +2,9 @@
 - 👀 I’m interested in ... cybersecurity
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://thedaryltan.com
+- 📫 How to reach me ... me@thedaryltan.com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I play the electriic guitar
 
 <!---
 darylthetan/darylthetan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
